@@ -1,0 +1,146 @@
+@media screen and (max-width: 790px) {
+    .education-item-data {
+        display: block;
+        margin-left: 0px;
+    }
+    .experience-item-data {
+        display: block;
+        margin-left: 0px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .home-main-menu-burger {
+        display: flex;
+    }
+    .home-main-menu {
+        display: none;
+    }
+    .block-home {
+        flex-direction: column;
+        height: 1000px;
+    }
+    .block-home-logo {
+        width: 100%;
+    }
+    .block-home-main {
+        width: 100%;
+    }
+    .block-about {
+        flex-direction: column;
+        height: 500px;
+    }
+    .about-info {
+        width: 100%;
+    }
+    .about-skills {
+        width: 100%;
+    }
+    .block-skills {
+        flex-direction: column;
+        height: 500px;
+    }
+    .skills-container {
+        width: 100%;
+    }
+    .block-contact {
+        flex-direction: column;
+        height: 1000px;
+    }
+    .contact-feedback {
+        width: 100%;
+    }
+    .contact-info {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .block-home {
+        flex-direction: column;
+        height: 1000px;
+    }
+    .block-home-logo {
+        width: 100%;
+    }
+    .block-home-main {
+        width: 100%;
+    }
+    .block-about {
+        flex-direction: column;
+        height: 750px;
+    }
+    .about-info {
+        width: 100%;
+    }
+    .about-skills {
+        flex-direction: column;
+        height: 500px;
+    }
+    .skills-logo {
+        width: 100%;
+    }
+    .skills-info {
+        width: 100%;
+        height: 100%;
+    }
+    .block-skills {
+        flex-direction: column-reverse;
+        height: 1000px;
+    }
+    .skills-container {
+        width: 100%;
+        flex-direction: column;
+    }
+    .skills-item {
+        width: 100%;
+    }
+    .block-experience {
+        flex-direction: column;
+        height: 750px;
+    }
+    .experience-logo {
+        width: 100%;
+    }
+    .experience-info {
+        width: 100%;
+    }
+    .block-education {
+        flex-direction: column-reverse;
+        height: 750px;
+    }
+    .education-logo {
+        width: 100%;
+    }
+    .education-info {
+        width: 100%;
+    }
+    .quote-container {
+        width: 90%;
+    }
+    .block-contact {
+        flex-direction: column;
+        height: 1300px;
+    }
+    .contact-feedback {
+        width: 100%;
+        height: 500px;
+    }
+    .contact-info {
+        flex-direction: column;
+    }
+    .contact-info-image {
+        width: 100%;
+        height: 500px;
+    }
+    .contact-contacts {
+        width: 100%;
+        height: 300px;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    * {
+        font-size: 20px;
+    }
+}

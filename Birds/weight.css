@@ -1,0 +1,326 @@
+@media screen and (max-width: 1174px) {
+    .item__text-title {
+        margin-bottom: 10px;
+    }
+    .item__text-date {
+        margin-bottom: 10px;
+    }
+    .item__text-description {
+        font-size: 0.8rem;
+    }
+    .slide-bird__info-title {
+        margin-bottom: 30px;
+        font-size: 1.2rem;
+    }
+}
+
+@media screen and (max-width: 942px) {
+    .item__text-description {
+        font-size: 0.7rem;
+    }
+    .slide-bird__info-text {
+        font-size: 0.9rem;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .home__title {
+        margin-right: 0px;
+        margin-left: 60px;
+    }
+    .home__menu-burger {
+        display: flex;
+    }
+    .home__menu {
+        display: none;
+    }
+    .block__gallery {
+        height: 600px;
+    }
+    .block__about {
+        height: 650px;
+    }
+    .slides__slide-bird {
+        flex-direction: column;
+    }
+    .slider__navigation-bird {
+        height: 75px;
+    }
+    .birds__slider {
+        height: 575px;
+    }
+    .slide-bird__photo {
+        height: 50%;
+        width: 100%;
+    }
+    .slide-bird__info {
+        height: 50%;
+        width: 100%;
+    }
+    .slide-bird__info-title {
+        margin-top: 0px;
+    }
+    .slide-bird__info-text {
+        font-size: 1rem;
+    }
+    .block__arrivals {
+        height: 500px;
+        flex-direction: column;
+    }
+    .arrivals__text,
+    .arrivals__video {
+        width: 100%;
+        height: 50%;
+    }
+    .header {
+        height: 75px;
+    }
+    .services__container {
+        height: 425px;
+    }
+    .trainers__container {
+        height: 400px;
+    }
+    .clients__slider {
+        height: 425px;
+    }
+    .block__subscribe {
+        height: 250px;
+    }
+    .subscribe__container {
+        height: 175px;
+    }
+    .blog__container {
+        height: 600px;
+    }
+    .block__logo {
+        height: 500px;
+        flex-direction: column;
+    }
+    .logo__photo,
+    .container__logo {
+        width: 100%;
+        height: 50%;
+    }
+    .header_block-partners {
+        height: 75px;
+    }
+    .partners__container {
+        height: 325px;
+    }
+    .header_block-contact {
+        height: 75px;
+    }
+    .contact__container {
+        height: 525px;
+    }
+    .info-input_message {
+        height: 150px;
+    }
+    .block__blog {
+        height: 1000px;
+    }
+    .blog__flex-row {
+        flex-direction: column;
+    }
+    .blog__flex-row_border-top,
+    .blog__item_border-right {
+        border: none;
+    }
+    .container__blog {
+        height: 875px;
+        margin-top: 25px;
+    }
+    .blog__item {
+        height: 50%;
+        margin-top: 0px;
+    }
+    .item__text-description {
+        font-size: 0.9rem;
+    }
+}
+
+@media screen and (max-width: 660px) {
+    .slide-bird__info-title {
+        margin-bottom: 30px;
+    }
+    .slide-bird__info-text {
+        font-size: 0.9rem;
+    }
+    .item__title {
+        font-size: 0.8rem;
+    }
+    .block__trainers {
+        height: 800px;
+    }
+    .container__trainers {
+        height: 700px;
+    }
+    .trainers__flex-row {
+        display: none;
+    }
+    .trainers__flex-column {
+        display: flex;
+        flex-direction: column;
+    }
+    .trainers__item {
+        height: 50%;
+        align-items: center;
+        justify-content: center;
+    }
+    .block__contact {
+        height: 1000px;
+    }
+    .container__contact {
+        height: 925px;
+    }
+    .contact__information {
+        flex-direction: column;
+        height: 50%;
+    }
+    .information__item {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .contact__form {
+        height: 50%;
+    }
+    .form__info {
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .info-input {
+        width: 100%;
+    }
+    .item__text-description {
+        font-size: 0.8rem;
+    }
+    .block__gallery {
+        display: none;
+    }
+    .block__gallery-carusel {
+        display: flex;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .block__services {
+        height: 700px;
+    }
+    .container__services {
+        height: 625px;
+        flex-direction: column;
+    }
+    .services__flexer {
+        width: 100%;
+        height: 50%;
+        justify-content: space-around;
+    }
+    .item__text-description {
+        font-size: 0.7rem;
+    }
+    .block__gallery-carusel {
+        height: 650px;
+    }
+    .gallery-carusel__slider {
+        height: 500px;
+    }
+    .slides-gallery__slide {
+        height: 500px;
+    }
+}
+
+@media screen and (max-width: 525px) {
+    .navigation-bird__item {
+        font-size: 0.8rem;
+    }
+    .slide-bird__info-text {
+        font-size: 0.8rem;
+    }
+    .container__gallery {
+        height: 80%;
+    }
+    .services__flexer {
+        width: 100%;
+        justify-content: space-around;
+    }
+    .block__gallery {
+        height: 400px;
+    }
+    .header {
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 471px) {
+    .container__blog {
+        height: 900px;
+        margin-top: 0px;
+    }
+    .item__text-title {
+        font-size: 0.9rem;
+    }
+    .item__text-date {
+        font-size: 0.7rem;
+    }
+    .button__login {
+        width: 80px;
+        height: 30px;
+    }
+    .block__gallery-carusel {
+        height: 600px;
+    }
+    .gallery-carusel__slider {
+        height: 450px;
+    }
+    .slides-gallery__slide {
+        height: 450px;
+    }
+}
+
+@media screen and (max-width: 413px) {
+    .menu-item_height30 {
+        height: 50%;
+    }
+    .slide-bird__info-title {
+        margin-bottom: 10px;
+    }
+    .slide-bird__info-text {
+        font-size: 0.75rem;
+    }
+    .block__blog {
+        height: 1100px;
+    }
+    .header_block-blog {
+        height: 50px;
+    }
+    .container__blog {
+        height: 1020px;
+    }
+}
+
+@media screen and (max-width: 374px) {
+    .home__title {
+        font-size: 1.4rem;
+        margin-left: 55px;
+    }
+    .item__text-description {
+        font-size: 0.65rem;
+    }
+    .slide-bird__info-text {
+        margin-bottom: 10px;
+    }
+    .partners__photo {
+        width: 120px;
+        height: 40px;
+    }
+    .block__gallery-carusel {
+        height: 500px;
+    }
+    .gallery-carusel__slider {
+        height: 350px;
+    }
+    .slides-gallery__slide {
+        height: 350px;
+    }
+}
